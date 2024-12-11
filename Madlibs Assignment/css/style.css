@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+header{
+    background-color: #8DA633;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section{
+    background-image: url("../images/studentstress.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #014040;
+}
+
+h1,p{
+    font-family: "Oswald", sans-serif;
+}
+
+#output{
+    font-family: "Oswald", sans-serif;
+    font-size: larger;
+}
